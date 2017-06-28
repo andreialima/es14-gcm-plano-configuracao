@@ -18,4 +18,5 @@
 <tr><td>Análise das Causas Raízes</td><td>Rafael</td></tr>
 <tr><td>Usuários e Outros Stakeholders</td><td>Luiz</td></tr>
 <tr><td>Fronteira Sistêmica</td><td>Luiz</td></tr>
+<tr><td>Lista de Restrições</td><td>Ana Carolina</td></tr>
 </table>
