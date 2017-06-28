@@ -2,7 +2,7 @@
 
 
 <table>
-<tr><thNecessidade</th><th>Descrição</th></tr>
+<tr><th>Necessidade</th><th>Descrição</th></tr>
 <tr><td>Controle e histórico de O.S.
 </td><td>Emitir, armazenar e consultar registros sequenciais de ordens de serviços
 </td></tr>
