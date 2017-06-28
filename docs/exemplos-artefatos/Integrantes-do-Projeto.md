@@ -1,9 +1,8 @@
 # Integrantes do Projeto
 
-Ana Carolina Aymberé
-RA: 1700820
-Email: anacaymbere@gmail.com
-Tel: 11 997858500
+Ana Carolina Aymberé <br>
+RA: 1700820 <br>
+Email: anacaymbere@gmail.com <br>
  
 Andreia Silva Nogueira de Lima 
 RA: 1600978
