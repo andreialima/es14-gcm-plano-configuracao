@@ -16,4 +16,6 @@
 <tr><td>Referências</td><td>Gustavo</td></tr>
 <tr><td>Lista de Necessidades</td><td>Gustavo</td></tr>
 <tr><td>[Item de configuração 6]</td><td>[equipe responsável 6]</td></tr>
+<tr><td>Declaração do Problema</td><td>Rafael</td></tr>
+<tr><td>Análise das Causas Raízes</td><td>Rafael</td></tr>
 </table>
