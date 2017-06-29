@@ -2,7 +2,7 @@
 
 <table>
 <tr><th>Papel</th><th>Nomes</th></tr>
-<tr><td>Coodenador do projeto</td><td>Andreia</td></tr>
+<tr><td>Coordenador do projeto</td><td>Andreia</td></tr>
 <tr>
     <td>Analistas de sistemas</td>
     <td>
